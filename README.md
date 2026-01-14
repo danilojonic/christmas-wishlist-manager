@@ -8,12 +8,6 @@ A clean, menu-driven console application built in C to manage a Christmas wishli
 *   **View All**: Display the entire wishlist in a formatted list.
 *   **Input Validation**: Handles empty inputs and other edge cases.
 
-## Technical Details
-This project demonstrates my understanding of:
-*   **Structures (`struct`)** for data organization
-*   **Arrays** for in-memory storage
-*   **String manipulation** (`strcmp`, `fgets`)
-
 ## How to Compile and Run
 1.  **Clone the repository:**
     ```bash
